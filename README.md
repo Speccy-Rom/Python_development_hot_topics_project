@@ -1,4 +1,4 @@
-# Implementing algorithms in Python
+# Python development hot topics project
 
 # В этом репозитории никакой воды, только актуальные вопросы и проблемы возникающие при разработке на python.
 
