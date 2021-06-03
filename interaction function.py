@@ -18,8 +18,11 @@
  neutralise("-+-+-+", "-+-+-+") ➞ "-+-+-+"
  neutralise("-++-", "-+-+") ➞ "-+00" """
 
+
 def neutralise(s1, s2):
     return ''.join(a if a == b else '0' for a, b in zip(s1, s2))
+
+
 def neutralise(s1, s2):
     ans = ''
     for i in range(len(s1)):
@@ -28,4 +31,6 @@ def neutralise(s1, s2):
         else:
             ans += '0'
     return ans
-neutralise=lambda a,b:"".join(["0",x][x==y]for x,y in zip(a,b))
+
+
+neutralise = lambda a, b: "".join(["0", x][x == y] for x, y in zip(a, b))

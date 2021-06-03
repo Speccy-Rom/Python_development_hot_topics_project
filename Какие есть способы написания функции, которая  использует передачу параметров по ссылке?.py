@@ -40,7 +40,7 @@ def function(a):
 
 args = ['string', 10]
 
-func1(args)
+# func1(args)
 
 print(args[0], args[1])
 
