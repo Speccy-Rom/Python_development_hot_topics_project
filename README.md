@@ -14,7 +14,7 @@
 - [Копирование объектов, операция присвоения](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/%D0%9A%D0%BE%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2%2C%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D1%80%D0%B8%D1%81%D0%B2%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F.py)
 - [Функция, которая принимает две строки, состоящие из знаков «+» и «-», и возвращает строку — результат их взаимодействия](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/interaction%20function.py)
 - [Функция множественного числа существительного](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/interaction%20function.py)
-
+- [Функция, которая принимает символы ( ) : в любых сочетаниях](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/function_smile.py)
 
 
 
