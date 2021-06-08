@@ -15,7 +15,7 @@
 - [Функция, которая принимает две строки, состоящие из знаков «+» и «-», и возвращает строку — результат их взаимодействия](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/interaction%20function.py)
 - [Функция множественного числа существительного](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/interaction%20function.py)
 - [Функция, которая принимает символы ( ) : в любых сочетаниях](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/function_smile.py)
-
+- [Функция возвращает сумму пар чисел](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/function%20sum%20pair%20integer.py)
 
 
 
