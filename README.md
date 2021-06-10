@@ -16,7 +16,7 @@
 - [Функция множественного числа существительного](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/interaction%20function.py)
 - [Функция, которая принимает символы ( ) : в любых сочетаниях](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/function_smile.py)
 - [Функция возвращает сумму пар чисел](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/function%20sum%20pair%20integer.py)
-
+- [Функция с помощью битов четности проверяет, валидна ли двоичная строка](https://github.com/Speccy-Rom/Python_development_hot_topics_project/blob/master/function_validate_binary.py)
 
 
 
