@@ -24,13 +24,7 @@ def neutralise(s1, s2):
 
 
 def neutralise(s1, s2):
-    ans = ''
-    for i in range(len(s1)):
-        if s1[i] == s2[i]:
-            ans += s1[i]
-        else:
-            ans += '0'
-    return ans
+    return ''.join(s1[i] if s1[i] == s2[i] else '0' for i in range(len(s1)))
 
 
 neutralise = lambda a, b: "".join(["0", x][x == y] for x, y in zip(a, b))

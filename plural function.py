@@ -14,8 +14,8 @@
 
 
 def pluralize(lst):
-    return set(i + 's' * (lst.count(i) > 1) for i in lst)
+    return {i + 's' * (lst.count(i) > 1) for i in lst}
 
 
 def pluralize(lst):
-    return {i + 's' if lst.count(i) > 1 else i for i in lst}
+    return {f'{i}s' if lst.count(i) > 1 else i for i in lst}

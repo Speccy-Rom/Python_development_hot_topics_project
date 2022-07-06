@@ -46,7 +46,7 @@ def closing_in_sum(n):
 
 
 def zipper(a, b):
-    return sum([int(x + y) for x, y in zip(a, b)])
+    return sum(int(x + y) for x, y in zip(a, b))
 
 
 def closing_in_sum(num):
